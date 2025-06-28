@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face{
+    src: url(../fonts/futura-pt-book.2dadbb3c03c1.woff2);
+    font-family: 'Futura-pt';
+}
