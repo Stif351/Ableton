@@ -8,3 +8,18 @@
     src: url(../fonts/futura-pt-book.2dadbb3c03c1.woff2);
     font-family: 'Futura-pt';
 }
+
+:root{
+    --link: #0000ff;
+    --header-main: #ff764d;
+    --section-1: #fbffa7;
+    --section-2: #b6ffc0;
+    --section-3: #d5b3ff;
+    --section-4: #b1c5ff;
+
+}
+
+body{
+    font-family: 'Futura-pt';
+    font-size: 16px;
+}
